@@ -1,0 +1,9 @@
+.banner_wrap {
+    width: 1000px;
+    margin: 15px auto 15px auto;
+
+}
+.banner_wrap img {
+    max-width: 100%;
+    max-height: 300px;
+}
